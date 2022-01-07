@@ -33,5 +33,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zbraiterman/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact Zoe
-
-Having trouble with Pages? Check out our [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman) and we’ll help you sort it out.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman).
