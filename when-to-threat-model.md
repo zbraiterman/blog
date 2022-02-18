@@ -1,4 +1,4 @@
-when-to-threat-model
+When to Threat Model
 
 
 ![](/images/microsoft-sdlc.jpeg)
