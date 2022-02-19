@@ -1,4 +1,4 @@
-When to Threat Model
+Why Start Threat Modelling Early?
 
 
 ![](/images/microsoft-sdlc.jpeg)
