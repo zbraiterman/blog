@@ -1,1 +1,8 @@
+title:  Blog
+author:  Zoe Braiterman
+description:  Technical / Security Content
+twitter_username:  zbraiterman
+github_username:  zbraiterman
+
+# Build settings
 theme: jekyll-theme-cayman
