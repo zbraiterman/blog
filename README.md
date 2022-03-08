@@ -32,9 +32,16 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 *[Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org)
 
-*
+*[The XRSI Privacy Framework Version 1.0](https://xrsi.org/publication/the-xrsi-privacy-framework)
 
-*
+*[
+The Current Status of Cardiac Pacemaker Systems and On-going Design Innovations](https://www.amazon.com/Current-Cardiac-Pacemaker-Systems-Innovations-ebook/dp/B083ZSC9K9)
+
+*[Working with Health Care Facilities and or Health Insurance Providers](https://www.amazon.com/Working-Health-Facilities-Insurance-Providers-ebook/dp/B083GF3C46)
+
+*[
+Progress Update on the Development and Implementation of the Advanced Cyberinfrastructure Research & Education Facilitators Virtual Residency Program](https://www.researchgate.net/publication/325154156_Progress_Update_on_the_Development_and_Implementation_of_the_Advanced_Cyberinfrastructure_Research_Education_Facilitators_Virtual_Residency_Program)
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zbraiterman/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
