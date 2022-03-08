@@ -43,7 +43,5 @@ The Current Status of Cardiac Pacemaker Systems and On-going Design Innovations]
 Progress Update on the Development and Implementation of the Advanced Cyberinfrastructure Research & Education Facilitators Virtual Residency Program](https://www.researchgate.net/publication/325154156_Progress_Update_on_the_Development_and_Implementation_of_the_Advanced_Cyberinfrastructure_Research_Education_Facilitators_Virtual_Residency_Program)
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zbraiterman/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Contact Zoe
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman).
