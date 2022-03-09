@@ -28,14 +28,14 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Co-Authored Articles
+
+### Publications
 
 * [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org)
 
 * [The XRSI Privacy Framework Version 1.0](https://xrsi.org/publication/the-xrsi-privacy-framework)
 
-* [
-The Current Status of Cardiac Pacemaker Systems and On-going Design Innovations](https://www.amazon.com/Current-Cardiac-Pacemaker-Systems-Innovations-ebook/dp/B083ZSC9K9)
+* [The Current Status of Cardiac Pacemaker Systems and On-going Design Innovations](https://www.amazon.com/Current-Cardiac-Pacemaker-Systems-Innovations-ebook/dp/B083ZSC9K9)
 
 * [Working with Health Care Facilities and or Health Insurance Providers](https://www.amazon.com/Working-Health-Facilities-Insurance-Providers-ebook/dp/B083GF3C46)
 
