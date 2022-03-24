@@ -1,6 +1,13 @@
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+#theme: minima  # base Jekyll theme
+
+# Site settings
 title:  Blog
 author:  Zoe Braiterman
 description:  Technical / Security Content
+url: 
 twitter_username:  zbraiterman
 github_username:  zbraiterman
 url:  zbraiterman.github.io
