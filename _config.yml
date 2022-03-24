@@ -6,11 +6,9 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 # Site settings
 title:  Blog
 author:  Zoe Braiterman
-description:  Technical / Security Content
-url: 
+description:  Technical / Security Content 
 twitter_username:  zbraiterman
 github_username:  zbraiterman
 url:  zbraiterman.github.io
 
-# Build settings
-theme: jekyll-theme-cayman
+
