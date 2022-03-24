@@ -1,8 +1,3 @@
-# Theme
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-#theme: minima  # base Jekyll theme
-
 # Site settings
 title:  Blog
 author:  Zoe Braiterman
