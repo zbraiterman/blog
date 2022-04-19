@@ -1,23 +1,6 @@
 ## Zoe Braiterman
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
 ### Co-Authored Publications
 
 * [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org)
@@ -30,8 +13,7 @@ Syntax highlighted code block
 
 * [Ask.Cyberinfrastructure.org: Creating a Platform for Self-Service Learning and Collaboration in the Rapidly Changing Environment of Research Computing](https://www.academia.edu/73629465/Ask_Cyberinfrastructure_org_Creating_a_Platform_for_Self_Service_Learning_and_Collaboration_in_the_Rapidly_Changing_Environment_of_Research_Computing)
 
-* [
-Progress Update on the Development and Implementation of the Advanced Cyberinfrastructure Research & Education Facilitators Virtual Residency Program](https://www.researchgate.net/publication/325154156_Progress_Update_on_the_Development_and_Implementation_of_the_Advanced_Cyberinfrastructure_Research_Education_Facilitators_Virtual_Residency_Program)
+* [Progress Update on the Development and Implementation of the Advanced Cyberinfrastructure Research & Education Facilitators Virtual Residency Program](https://www.researchgate.net/publication/325154156_Progress_Update_on_the_Development_and_Implementation_of_the_Advanced_Cyberinfrastructure_Research_Education_Facilitators_Virtual_Residency_Program)
 ```
 
 
