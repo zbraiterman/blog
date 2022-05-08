@@ -10,6 +10,11 @@ tags: cybersecurity
 # Cybersecurity
 
 
-## Cheatsheets / Guides / PSAs
+## Cheatsheets / Guides / Awareness Campaigns
 
-*["A Word about Passwords"](https://zbraiterman.github.io/diversecurity/a-word-about-passwords.html)
+* ["A Word about Passwords"](https://zbraiterman.github.io/diversecurity/a-word-about-passwords.html)
+
+
+## Technical Education
+
+* [Python for Cybersecurity]()
