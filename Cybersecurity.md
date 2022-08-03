@@ -17,4 +17,4 @@ tags: cybersecurity
 
 ## Technical Education
 
-* [Python for Cybersecurity]()
+
