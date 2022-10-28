@@ -1,7 +1,7 @@
 ## Zoe Braiterman
 
 
-### Co-Authored Publications
+### Co-Authored Publications and Guest Articles
 
 * [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org)
 
@@ -14,6 +14,8 @@
 * [Ask.Cyberinfrastructure.org: Creating a Platform for Self-Service Learning and Collaboration in the Rapidly Changing Environment of Research Computing](https://www.academia.edu/73629465/Ask_Cyberinfrastructure_org_Creating_a_Platform_for_Self_Service_Learning_and_Collaboration_in_the_Rapidly_Changing_Environment_of_Research_Computing)
 
 * [Progress Update on the Development and Implementation of the Advanced Cyberinfrastructure Research & Education Facilitators Virtual Residency Program](https://www.researchgate.net/publication/325154156_Progress_Update_on_the_Development_and_Implementation_of_the_Advanced_Cyberinfrastructure_Research_Education_Facilitators_Virtual_Residency_Program)
+
+* ["The Role of Tooling in Threat Modeling", guest article in the Toreon Threat Modeling Insider Newsletter](https://www.toreon.com/tmi-newsletter-19-the-role-of-tooling-in-threat-modeling)
 ```
 
 
