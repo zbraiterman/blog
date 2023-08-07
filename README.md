@@ -1,6 +1,5 @@
 ## Zoe Braiterman
 
-[i](images)
 
 ### Co-Authored Publications and Guest Articles
 
