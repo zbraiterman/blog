@@ -1,7 +1,7 @@
 ## Zoe Braiterman
 
 
-### I've co-authored publications:
+### I've co-authored the following publications:
 
 * ["Threat Modeling Manifesto"](https://www.threatmodelingmanifesto.org)
 
