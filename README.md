@@ -17,5 +17,5 @@
 
 * ["The Role of Tooling in Threat Modeling", guest article in the Toreon Threat Modeling Insider Newsletter](https://www.toreon.com/tmi-newsletter-19-the-role-of-tooling-in-threat-modeling)
 
-### Contact Zoe
+### Contact Zoe.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman).
