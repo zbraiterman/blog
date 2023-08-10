@@ -3,7 +3,7 @@
 
 ### I've co-authored the following publications:
 
-* ["Threat Modeling Manifesto"](https://www.threatmodelingmanifesto.org)
+* ["Threat Modeling Manifesto," a set of industry guidelines for threat modeling, which includes values, principles, patterns and anti-patterns](https://www.threatmodelingmanifesto.org)
 
 * ["The XRSI Privacy Framework Version 1.0"](https://xrsi.org/publication/the-xrsi-privacy-framework)
 
