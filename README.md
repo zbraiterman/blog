@@ -15,7 +15,7 @@
 
 * ["Progress Update on the Development and Implementation of the Advanced Cyberinfrastructure Research & Education Facilitators Virtual Residency Program"](https://www.researchgate.net/publication/325154156_Progress_Update_on_the_Development_and_Implementation_of_the_Advanced_Cyberinfrastructure_Research_Education_Facilitators_Virtual_Residency_Program)
 
-* ["The Role of Tooling in Threat Modeling," Guest article in the Toreon Threat Modeling Insider Newsletter](https://www.toreon.com/tmi-newsletter-19-the-role-of-tooling-in-threat-modeling)
+* ["The Role of Tooling in Threat Modeling," guest article in the Toreon Threat Modeling Insider Newsletter](https://www.toreon.com/tmi-newsletter-19-the-role-of-tooling-in-threat-modeling)
 
 ### Contact Zoe.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman).
