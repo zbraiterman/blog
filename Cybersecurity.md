@@ -12,7 +12,7 @@ tags: cybersecurity
 
 ## Cheatsheets / Guides / Awareness Campaigns
 
-* ["A Word about Passwords"](https://github.com/zbraiterman/diversecurity/blob/main/a-word-about-passwords.md)
+* ["A Word about Passwords"](https://diversecurity.org/a-word-about-passwords.html)
 
 ## Technical Education
 
