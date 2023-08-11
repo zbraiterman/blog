@@ -7,7 +7,7 @@
 
 * ["The XRSI Privacy Framework Version 1.0, a framework for protecting the privacy of extended reality (XR) systems, such as virtual reality (VR), augmented reality (AR) and mixed reality (MR) systems", published by the *Extended Reality Safety Initiative (XRSI)*](https://xrsi.org/publication/the-xrsi-privacy-framework)
 
-* ["The Current Status of Cardiac Pacemaker Systems and On-going Design Innovations"](https://www.amazon.com/Current-Cardiac-Pacemaker-Systems-Innovations-ebook/dp/B083ZSC9K9)
+* ["The Current Status of Cardiac Pacemaker Systems and On-going Design Innovations."](https://www.amazon.com/Current-Cardiac-Pacemaker-Systems-Innovations-ebook/dp/B083ZSC9K9)  This article will discuss the current status of cardiac pacemaker devices, including material related to the ongoing development of pacemaker systems, such as the main cardiac pacemaker device, programming of current devices and pacemaker leads. The functioning of a cardiac pacemaker system is achieved through the use of a programming system. Each company has usually developed their own programming systems in order to verify the programming parameters, e.g. Pulse Width (ms), Sensitivity (mV), refractory blanking period and amplitude in order to modify specific pacemaker parameters as required. Any modifications in the cardiac pacing parameters are supervised by an EP cardiologist. A sample template for recording any pacemaker parameter modifications which I have developed is presented in the APPENDIX section.
 
 * ["Working with Health Care Facilities and or Health Insurance Providers"](https://www.amazon.com/Working-Health-Facilities-Insurance-Providers-ebook/dp/B083GF3C46)
 
