@@ -9,11 +9,11 @@ tags: cybersecurity
 
 # Cybersecurity
 
+## Credentials
 
-## Cheatsheets / Guides / Awareness Campaigns
+
+## Content
 
 * ["A Word about Passwords"](https://diversecurity.org/a-word-about-passwords.html)
-
-## Technical Education
 
 
