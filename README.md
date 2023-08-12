@@ -1,5 +1,6 @@
 ## Zoe Braiterman
 
+![](https://github.com/zbraiterman/blog/blob/main/images/ZoeB-headshot.jpg)
 
 ### I've co-authored the following publications:
 
