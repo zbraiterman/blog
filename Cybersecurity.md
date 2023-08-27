@@ -14,6 +14,6 @@ tags: cybersecurity
 
 ## Content
 
-* ["A Word about Passwords"](posts/a-word-about-passwords.md)
+* ["A Word about Passwords"](https://diversecurity.org/a-word-about-passwords.html)
 
 
