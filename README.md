@@ -4,6 +4,11 @@ Author:  Zoe Braiterman
 ---
 ## Zoe Braiterman
 
+### Blog Posts by Category
+
+* [Cybersecurity](https://zoebraiterman.com/Cybersecurity.html)
+* [Data Science](https://zoebraiterman.com/Data_Science.html)
+* [Engineering](https://zoebraiterman.com/Engineering.html)
 
 ### I've co-authored the following publications:
 
