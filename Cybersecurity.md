@@ -11,6 +11,6 @@ Author:  Zoe Braiterman
 
 ## Content
 
-* ["A Word about Passwords"](https://diversecurity.org/a-word-about-passwords.html)
+* ["A Word about Passwords"](https://zoebraiterman.com/a-word-about-passwords.html)
 
 
