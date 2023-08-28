@@ -15,7 +15,7 @@ Any individual interested to learn about security, or just think about solving r
 **General structure of a hackathon**
 
 1. Explain to participants what we expect them to submit for their solutions
-2. Participants form teams and work on their solutions (with access to their team members and our mentorship over Slack, or another team communications platform.
+2. Participants form teams and work on their solutions (with access to their team members and our mentorship over Slack, or another team communications platform).
 3. Participants submit their solutions, and present at a later date (perhaps after a week or two). 
 
 
@@ -84,6 +84,6 @@ If you choose this option, please
 **Past Hackathons**
 
 * [Teleconferencing App](/secure-teleconferencing-app.md)
-* [Secure Transaction](/secure-transaction.md)
+* [Secure Transaction](https://zoebraiterman.com/hackathons/secure-transaction.html)
 * [Secure Social Media Platform](/secure-social-media-platform.md)
 * [Allergy Recommender App](/allergy-recommender-app-security.md)
