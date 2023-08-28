@@ -83,7 +83,7 @@ If you choose this option, please
 
 **Past Hackathons**
 
-* [Teleconferencing App](/secure-teleconferencing-app.md)
+* [Teleconferencing App](/secure-teleconferencing-app.md](https://zoebraiterman.com/hackathons/secure-teleconferencing-app.html)
 * [Secure Transaction](https://zoebraiterman.com/hackathons/secure-transaction.html)
 * [Secure Social Media Platform](/secure-social-media-platform.md)
 * [Allergy Recommender App](/allergy-recommender-app-security.md)
