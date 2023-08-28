@@ -1,10 +1,7 @@
 ---
-title: Cybersecurity
-displaytext:  Cybersecurity
-layout:  null
-tab:  true
-order:  1
-tags: cybersecurity
+Title: Cybersecurity
+URL:  https://zoebraiterman.com/cybersecurity.html
+Author:  Zoe Braiterman
 ---
 
 # Cybersecurity
