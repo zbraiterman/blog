@@ -1,6 +1,6 @@
 ---
 Title: Cybersecurity
-URL:  https://zoebraiterman.com/cybersecurity.html
+URL:  https://zoebraiterman.com/Cybersecurity.html
 Author:  Zoe Braiterman
 ---
 
