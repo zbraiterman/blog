@@ -1,3 +1,7 @@
+---
+URL:  https://zoebraiterman.com
+Author:  Zoe Braiterman
+---
 ## Zoe Braiterman
 
 
