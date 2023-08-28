@@ -1,3 +1,6 @@
+---
+URL: https://zoebraiterman.com/hackathons/secure-transaction.html
+---
 # Transaction Security Hackathon
 
 From an OWASP Women in AppSec, Diveristy and Inclusion Committee meetup I hosted on Saturday, November 21, 2020
