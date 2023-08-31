@@ -89,4 +89,4 @@ If you choose this option, please
 * [Teleconferencing App](https://zoebraiterman.com/hackathons/secure-teleconferencing-app.html)
 * [Secure Transaction](https://zoebraiterman.com/hackathons/secure-transaction.html)
 * [Secure Social Media Platform](https://zoebraiterman.com/hackathons/secure-social-media-platform.html)
-* [Allergy Recommender App](https://zoebraiterman.com/hackathons/secure-allergy-recommendation-app.html)https://zoebraiterman.com/hackathons/secure-allergy-recommendation-app.html)
+* [Allergy Recommender App](https://zoebraiterman.com/hackathons/secure-allergy-recommendation-app.html)
