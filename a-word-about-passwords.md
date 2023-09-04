@@ -35,6 +35,6 @@ One way they can do this is by using the [haveibeenpwned API](https://haveibeenp
 
 ## Penetration Testers’ Responsibilities include:
 
-Use fuzzing techniques, injecting common or breached passwords, such as those from [SecLists](https://github.com/danielmiessler/SecLists), into a web application penetration tool, such as or [Burp Suite](https://portswigger.net/burp/documentation/desktop/tools/intruder) or  [Zed Attack Proxy (ZAP)](https://www.zaproxy.org/docs/desktop/addons/fuzzer) 
+Use fuzzing techniques, injecting common or breached passwords, such as those from [SecLists](https://github.com/danielmiessler/SecLists), into a web application penetration tool, such as or [Burp Suite](https://portswigger.net/burp/documentation/desktop/tools/intruder) or  [Zed Attack Proxy (ZAP)](https://www.zaproxy.org/docs/desktop/addons/fuzzer).
 
 ![](/images/seclists-leaked-or-common-passwords.png)
