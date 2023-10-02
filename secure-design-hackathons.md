@@ -7,7 +7,7 @@ Insecure design is now included as [number 4 in the OWASP Top 10 Web Application
 
 The types of hypothetical systems or applications are meant to be themes, with multiple applications of their kind, already on the market, with many users. The point of the activity is centered around community-building, and the challenges are meant to facilitate creative though processes, not develop actual applications or products.
 
-The Hackathon are intended to be fun and collaborative, and a good way to connect like-minded individuals and provide a chance for them to build up their project portfolio, on their GitHub accounts and/or YouTube and/or other social media platforms. 
+The hackathons are intended to be fun and collaborative, and a good way to connect like-minded individuals and provide a chance for them to build up their project portfolio, on their GitHub accounts and/or YouTube and/or other social media platforms. 
 
 
 **Who should participate in this type of hackathon?**
