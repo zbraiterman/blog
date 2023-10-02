@@ -3,7 +3,7 @@ URL:  https://zoebraiterman.com/secure-design-hackathons.html
 ---
 **Purpose of a secure design hackathon**
 
-Insecure design is now included as [number 4 in the OWASP Top 10 Web Application Security Risks](https://github.com/OWASP/Top10/blob/master/2021/docs/A04_2021-Insecure_Design.md).  The purpose of these Hackathons is to allow security learners at all levels to think outside the box about solving real-world problems. 
+Insecure design is now included as [number 4 in the OWASP Top 10 Web Application Security Risks](https://github.com/OWASP/Top10/blob/master/2021/docs/A04_2021-Insecure_Design.md).  The purpose of these hackathons is to allow security learners at all levels to think outside the box about solving real-world problems. 
 
 The types of hypothetical systems or applications are meant to be themes, with multiple applications of their kind, already on the market, with many users. The point of the activity is centered around community-building, and the challenges are meant to facilitate creative though processes, not develop actual applications or products.
 
