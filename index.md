@@ -4,6 +4,8 @@ Author:  Zoe Braiterman
 ---
 ## Zoe Braiterman
 
+![](https://github.com/zbraiterman/blog/blob/main/images/li-headshot.jpg)
+
 ### Blog Posts by Category
 
 * [Cybersecurity](https://zoebraiterman.com/Cybersecurity.html)
