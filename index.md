@@ -4,7 +4,7 @@ Author:  Zoe Braiterman
 ---
 ## Zoe Braiterman
 
-![About Me](/images/li-headshot.jpg)
+![](/images/li-headshot.jpg)
 
 ### Blog Posts by Category
 
