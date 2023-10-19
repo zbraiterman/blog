@@ -30,5 +30,11 @@ The Expert Witness may be required to develop a written report, which should be 
 
 * ["The Role of Tooling in Threat Modeling," guest article in the *Toreon Threat Modeling Insider Newsletter*](https://www.toreon.com/tmi-newsletter-19-the-role-of-tooling-in-threat-modeling)
 
+
+### Curriculum Development and Teaching
+
+* [Global CISO Leadership Foundation](https://gcisoleadershipfoundation.org/our-contributors/)
+
+
 ### Contact Zoe.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman). Follow me on [Instagram](https://www.instagram.com/zbraiterman/).
