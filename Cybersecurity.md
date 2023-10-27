@@ -8,6 +8,7 @@ Author:  Zoe Braiterman
 
 ## Credentials
 
+* [API Security Fundamentals from APIsec University](https://www.credly.com/badges/652688f6-c4e2-44a8-be51-96b75d9414fe/public_url)
 
 ## Content
 
