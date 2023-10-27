@@ -5,6 +5,7 @@ Author:  Zoe Braiterman
 ---
 
 # Cybersecurity
+![](https://github.com/zbraiterman/blog/blob/main/images/api-security-fundamentals.png)
 
 ## Credentials
 
