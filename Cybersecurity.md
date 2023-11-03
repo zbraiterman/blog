@@ -15,6 +15,6 @@ Author:  Zoe Braiterman
 
 ## Content
 
-* ["A Word about Passwords"](https://zoebraiterman.com/a-word-about-passwords.html)
+* ["A Word About Passwords"](https://zoebraiterman.com/a-word-about-passwords.html)
 * ["Secure Design Hackathons"](https://zoebraiterman.com/secure-design-hackathons.html)
 
