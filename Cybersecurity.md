@@ -6,6 +6,10 @@ Author:  Zoe Braiterman
 
 # Cybersecurity
 
+## Training and Events
+
+* [Weekly PurePoint International Conciously Secure Leadership Series X Spaces](https://purepoint-international.com/events)
+
 ## Credentials
 
 * [API Security Fundamentals from APIsec University](https://www.credly.com/badges/652688f6-c4e2-44a8-be51-96b75d9414fe/public_url)
