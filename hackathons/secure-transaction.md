@@ -21,4 +21,4 @@ Aastha Sahni (@aastha1891) is currently working as the Lead CyberSecurity Instru
 Saman Fatima (@saman_3014) is a cyber enthusiast and trained in Identity and Access Management and is currently working with Macquarie Group in IAM Domain. Co-lead of Delhi Chapter for Infosec Girls Community, member of OWASP, OWASP WIA and WiCys India.
 
 
-## Submission by [Teresa Clark](https://twitter.com/HackneyTClark) to the [OWASP Threat Model Cookbook project] (https://github.com/OWASP/threat-model-cookbook)
+## Submission by [Teresa Clark](https://twitter.com/HackneyTClark) to the [OWASP Threat Model Cookbook project](https://github.com/OWASP/threat-model-cookbook)
