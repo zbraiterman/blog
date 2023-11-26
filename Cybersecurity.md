@@ -16,6 +16,7 @@ Author:  Zoe Braiterman
 * [API Security for PCI Compliance](https://www.credly.com/earner/earned/badge/b32d70ab-aa62-497a-9df3-080a21a1d64a)
 * [OWASP API Security Top 10](https://www.credly.com/earner/earned/badge/566cf417-deed-4047-8e8e-8f9f8919ab4b)
 * [API Documentation Best Practices](https://www.credly.com/badges/57a399d3-c630-4909-8479-1900744bf4e9/public_url)
+* [Securing API Servers](https://github.com/zbraiterman/blog/blob/main/images/securing-api-servers.png)
 
 ## Content
 
