@@ -8,3 +8,5 @@ tags: data
 ---
 
 # Data Science
+
+$x \times y$
