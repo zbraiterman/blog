@@ -25,5 +25,4 @@ Author:  Zoe Braiterman
 
 * ["A Word About Passwords"](https://zoebraiterman.com/a-word-about-passwords.html)
 * ["Secure Design Hackathons"](https://zoebraiterman.com/secure-design-hackathons.html)
-* ["Web3 Entrepeneurial adventures with Shivani Sharma" - MuKn Podcast, Episode #16](https://www.youtube.com/watch?v=jNDDX2bRfEY)
 
