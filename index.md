@@ -37,6 +37,8 @@ The Expert Witness may be required to develop a written report, which should be 
 
 * [Global CISO Leadership Foundation](https://gcisoleadershipfoundation.org/our-contributors/)
 
+### Content
+* ["2023 was a wild year for the blockchain sector"](https://www.youtube.com/watch?v=2eeSwLgh520)
 
 ### Contact Zoe.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman). Follow me on [Instagram](https://www.instagram.com/zbraiterman/).
