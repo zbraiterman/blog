@@ -42,4 +42,4 @@ The Expert Witness may be required to develop a written report, which should be 
 * ["2023 was a wild year for the blockchain sector" - MuKn Payments Podcast](https://www.youtube.com/watch?v=2eeSwLgh520)
 
 ### Contact Zoe.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman). Follow me on [Instagram](https://www.instagram.com/zbraiterman/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman). Follow me on [Instagram](https://www.instagram.com/zbraiterman/) and [YouTube](https://www.youtube.com/channel/UCjCvuA1iM58KjMLAyz_k3yA).
