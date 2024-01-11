@@ -40,6 +40,7 @@ The Expert Witness may be required to develop a written report, which should be 
 ### Content
 * ["Web3 Entrepeneurial adventures with Shivani Sharma" - MuKn Podcast, Episode #16](https://www.youtube.com/watch?v=jNDDX2bRfEY)
 * ["2023 was a wild year for the blockchain sector" - MuKn Payments Podcast](https://www.youtube.com/watch?v=2eeSwLgh520)
+* ["Bitcoin ETF, Mercari accepting crypto payments, and a cool map!"](https://www.youtube.com/watch?v=CbD5bjTPnM4)
 
 ### Contact Zoe.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman). Follow me on [Instagram](https://www.instagram.com/zbraiterman/) and [YouTube](https://www.youtube.com/channel/UCjCvuA1iM58KjMLAyz_k3yA).
