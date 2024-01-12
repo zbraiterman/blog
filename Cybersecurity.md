@@ -9,6 +9,7 @@ Author:  Zoe Braiterman
 ## Training and Events
 
 * [Weekly PurePoint International Conciously Secure Leadership Series X Spaces](https://purepoint-international.com/events)
+* [SafePC Solutions "Cybersecurity Awareness Training powered by Praxis AI"](https://cmap.amp.vg/auto2/69jp7x7kffdu/byi7814eo6nfn/1twbh7hvx33m)
 
 ## Credentials
 
