@@ -35,8 +35,11 @@ The Expert Witness may be required to develop a written report, which should be 
 
 ### Curriculum Development, Training and Events
 
-* [Global CISO Leadership Foundation](https://gcisoleadershipfoundation.org/our-contributors/)
 * [Mutual Knowledge Systems "Real World Blockchain Podcast"](https://www.youtube.com/playlist?list=PLiEa4i6H-qceawWSlt-k-kw1CiYUzd2aZ)
+* [Weekly PurePoint International Conciously Secure Leadership Series X Spaces](https://purepoint-international.com/events)
+* [SafePC Solutions "Cybersecurity Awareness Training powered by Praxis AI"](https://cmap.amp.vg/auto2/69jp7x7kffdu/byi7814eo6nfn/1twbh7hvx33m)
+* [Global CISO Leadership Foundation](https://gcisoleadershipfoundation.org/our-contributors/)
+
 
 ### Content
 * ["Web3 Entrepeneurial adventures with Shivani Sharma" - MuKn Podcast, Episode #16](https://www.youtube.com/watch?v=jNDDX2bRfEY)
