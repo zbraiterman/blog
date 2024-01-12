@@ -28,5 +28,6 @@ Author:  Zoe Braiterman
 * ["Overview of Information Security"](https://docs.google.com/presentation/d/1nNRgQDLBzol60vdkJTiBNR2B8OXc66akLM4RZKJo0x4/edit?usp=sharing)
 * ["A Word About Passwords"](https://zoebraiterman.com/a-word-about-passwords.html)
 * ["Secure Design Hackathons"](https://zoebraiterman.com/secure-design-hackathons.html)
-* ["Passwords Will Prevail"](https://blog.rainbowsecure.com/passwords-will-prevail/)
+* ["Passwords Will Prevail," Rainbow Secure blog post](https://blog.rainbowsecure.com/passwords-will-prevail/)
+* ["The Role of Tooling in Threat Modeling," guest article in the *Toreon Threat Modeling Insider Newsletter*](https://www.toreon.com/tmi-newsletter-19-the-role-of-tooling-in-threat-modeling)
 
