@@ -30,4 +30,5 @@ Author:  Zoe Braiterman
 * ["Secure Design Hackathons"](https://zoebraiterman.com/secure-design-hackathons.html)
 * ["Passwords Will Prevail," Rainbow Secure blog post](https://blog.rainbowsecure.com/passwords-will-prevail/)
 * ["The Role of Tooling in Threat Modeling," guest article in the *Toreon Threat Modeling Insider Newsletter*](https://www.toreon.com/tmi-newsletter-19-the-role-of-tooling-in-threat-modeling)
+* ["Diversity in cyber - Snyk Ambassadors Show"](https://www.youtube.com/watch?v=yqNHQ5NWeos)
 
