@@ -7,10 +7,10 @@ The Consciously Secure Leader Series, and our brand Consciously Secure Living, i
 
 
 Community guidelines:
-This is a safe place
-All voices are welcome.
-Listen to understand, not to be understood.
-Have fun! Laugh!
-Share from a place of wisdom
+* This is a safe place
+* All voices are welcome.
+* Listen to understand, not to be understood.
+* Have fun! Laugh!
+* Share from a place of wisdom
 
 ![](https://github.com/zbraiterman/blog/blob/main/images/consciously-secure-leadership-series.PNG)
