@@ -3,18 +3,18 @@
 ## Supernode
 
 Proprietary distributed blockchain engine intended to improve upon the following:
-Node reliability 
-Node scalability 
-Consistency of data
+* Node reliability 
+* Node scalability 
+* Consistency of data
 
 
 ## Build
 
 This feature is intended to speed up product development. 
 
-Search historical requests
-Visualize me pool transactions 
-Compose requests in browser 
+* Search historical requests
+* Visualize me pool transactions 
+* Compose requests in browser 
 
 
 ## Monitor 
@@ -41,8 +41,8 @@ Accelerate product development
 
 Powerful developer APIs for:
 * Full transaction history
-Token APIs
-Smart Websockets
+* Token APIs
+* Smart Websockets
 
 Replaces expensive custom implementations and in-house infrastructure 
 
