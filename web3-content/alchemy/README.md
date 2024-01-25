@@ -52,7 +52,7 @@ Replaces expensive custom implementations and in-house infrastructure
 
 Go to launch partner for Web3 products 
 
-Offload Infrastructure Alliance 
-Certified Infrastructure Alliance 
-Project spotlights 
-Social media amplification 
+* Offload Infrastructure Alliance 
+* Certified Infrastructure Alliance 
+* Project spotlights 
+* Social media amplification 
