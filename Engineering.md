@@ -16,4 +16,6 @@ tags: engineering
 
 
 ## Content
-* [Web3 Content](https://github.com/zbraiterman/blog/tree/main/web3-content)
+
+
+### Web3 Content
