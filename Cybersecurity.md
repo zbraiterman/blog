@@ -27,6 +27,7 @@ Author:  Zoe Braiterman
 ## Content
 
 * ["Overview of Information Security"](https://docs.google.com/presentation/d/1nNRgQDLBzol60vdkJTiBNR2B8OXc66akLM4RZKJo0x4/edit?usp=sharing)
+  * [Presentation for the Data Umbrella community](https://youtu.be/4m1jVQdUTQo)
 * ["A Word About Passwords"](https://zoebraiterman.com/a-word-about-passwords.html)
 * ["Secure Design Hackathons"](https://zoebraiterman.com/secure-design-hackathons.html)
 * ["Passwords Will Prevail," Rainbow Secure blog post](https://blog.rainbowsecure.com/passwords-will-prevail/)
