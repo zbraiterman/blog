@@ -45,6 +45,7 @@ The Expert Witness may be required to develop a written report, which should be 
 * ["2023 was a wild year for the blockchain sector" - MuKn Payments Podcast](https://www.youtube.com/watch?v=2eeSwLgh520)
 * ["Bitcoin ETF, Mercari accepting crypto payments, and a cool map!"](https://www.youtube.com/watch?v=CbD5bjTPnM4)
 * ["Cryptos at the Davos forum, Venezuela's crypto dies, and more regulations"](https://www.youtube.com/watch?v=TixDrUK4bkI)
+* ["FTX refunding in Full, Lichtenstein using crypto, and other news"](https://youtu.be/i4dSOW9ET-M)
 
 ### Contact Zoe.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman). Follow me on [Instagram](https://www.instagram.com/zbraiterman/) and [YouTube](https://www.youtube.com/channel/UCjCvuA1iM58KjMLAyz_k3yA).
