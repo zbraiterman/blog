@@ -13,6 +13,7 @@ Author:  Zoe Braiterman
 
 ## Credentials
 
+* [ISC2 Candidate](https://www.credly.com/badges/c9a4fae6-a342-41c9-947d-4516eb632e65/public_url)
 * [Board Member, GlobalCISO Leadership Foundation](https://app.virtualbadge.io/1vkhauhl/n40a5bkf?token=72e896dc-1408-4a27-81b7-3c3ee236532b)
 * [Cyber Threat Hunting](https://coursera.org/share/546076db62fbea6f59765c66c8328e48)
 * [Blockchain Security](https://coursera.org/share/c67bbf269f75fe0c5ee4c5ba596cee8b)
