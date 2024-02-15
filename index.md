@@ -1,4 +1,5 @@
 ---
+Title:  Zoe Braiterman
 URL:  https://zoebraiterman.com
 Author:  Zoe Braiterman
 ---
