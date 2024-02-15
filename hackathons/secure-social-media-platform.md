@@ -1,5 +1,7 @@
 ---
+Title:  Social Media Platform Security Hackathon
 URL:  https://zoebraiterman.com/hackathons/secure-social-media-platform.html
+Author:  Zoe Braiterman
 ---
 # Social Media Platform Security Hackathon
 
