@@ -1,10 +1,7 @@
 ---
 title: Engineering
-displaytext:  Engineering
-layout:  null
-tab:  true
-order:  3
-tags: engineering
+URL:  https://zoebraiterman.com/Engineering.html
+Author:  Zoe Braiterman
 ---
 
 # Engineering
