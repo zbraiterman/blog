@@ -1,6 +1,6 @@
---
+---
 URL:  https://zoebraiterman.com/hackathons/secure-social-media-platform.html
---
+---
 # Social Media Platform Security Hackathon
 
 ## Introduction and Hypothetical Scenario
