@@ -2,7 +2,7 @@
 URL:  https://zoebraiterman.com
 Author:  Zoe Braiterman
 ---
-## Zoe Braiterman
+# Zoe Braiterman
 
 ![](/images/li-headshot.jpg)
 
