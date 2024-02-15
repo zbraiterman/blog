@@ -1,5 +1,7 @@
 ---
+Title:  Secure Design Hackathons
 URL:  https://zoebraiterman.com/secure-design-hackathons.html
+Author:  Zoe Braiterman
 ---
 
 # Secure Design Hackathons
