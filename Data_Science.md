@@ -1,6 +1,7 @@
 ---
-title: Data Science
-author:  Zoe Braiterman
+Title: Data Science
+URL:  https://zoebraiterman.com/Data_Science.html
+Author:  Zoe Braiterman
 ---
 
 # Data Science
