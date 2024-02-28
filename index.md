@@ -35,6 +35,7 @@ The Expert Witness may be required to develop a written report, which should be 
 
 ### Curriculum Development, Training and Events
 
+* [Organizer, World Information Architecture Day New York City 2024](https://worldiaday.org/events/new-york-city/2024)
 * [Mutual Knowledge Systems "Real World Blockchain Podcast"](https://www.youtube.com/playlist?list=PLiEa4i6H-qceawWSlt-k-kw1CiYUzd2aZ)
 * [Weekly PurePoint International Conciously Secure Leadership Series X Spaces](https://purepoint-international.com/events)
 * [SafePC Solutions "Cybersecurity Awareness Training powered by Praxis AI"](https://cmap.amp.vg/auto2/69jp7x7kffdu/byi7814eo6nfn/1twbh7hvx33m)
