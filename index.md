@@ -51,6 +51,7 @@ The Expert Witness may be required to develop a written report, which should be 
 * ["FTX refunding in Full, Lichtenstein using crypto, and other news"](https://youtu.be/i4dSOW9ET-M)
 * [".eth domain names on Godaddy, and a Ledger X Coinbase partnership"](https://www.youtube.com/watch?v=z9Rg-jKdLGQ)
 * ["Women in the blockchain industry with Zoe Braiterman"](https://www.youtube.com/watch?v=tHeaz_bcPo0)
+* ["Web3 and branding with Jaime Schwartz"](https://www.youtube.com/watch?v=XK_X-Hus_Ck)
 
 ### Contact Zoe.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zoebraiterman/) or [Twitter](https://twitter.com/zbraiterman). Follow me on [Instagram](https://www.instagram.com/zbraiterman/) and [YouTube](https://www.youtube.com/channel/UCjCvuA1iM58KjMLAyz_k3yA).
