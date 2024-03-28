@@ -21,6 +21,6 @@ A BYOD (Bring Your Own Device) policy typically consists of several clauses desi
 
 * *Termination of Access:* This clause outlines the procedures for terminating an employee's access to company resources via their personal device, such as when an employee leaves the company or violates the BYOD policy.
 
-* Agreement and Acknowledgment:* This clause requires employees to review, understand, and sign the BYOD policy to indicate their agreement to abide by its terms.
+* *Agreement and Acknowledgment:* This clause requires employees to review, understand, and sign the BYOD policy to indicate their agreement to abide by its terms.
 
 These clauses collectively help to establish clear expectations and boundaries for BYOD usage within an organization, promoting both security and productivity while minimizing potential risks and liabilities.
