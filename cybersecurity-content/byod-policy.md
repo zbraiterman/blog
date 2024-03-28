@@ -1,5 +1,7 @@
 What are the clauses of a BYOD policy?
 
+![](https://github.com/zbraiterman/blog/blob/main/images/chatGPT-welcome-message.png)
+
 ChatGPT
 A BYOD (Bring Your Own Device) policy typically consists of several clauses designed to outline the guidelines, responsibilities, and expectations for employees who use their personal devices for work purposes. While the specifics may vary depending on the organization's needs and preferences, here are some common clauses found in BYOD policies:
 
