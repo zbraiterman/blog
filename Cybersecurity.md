@@ -34,4 +34,5 @@ Author:  Zoe Braiterman
 * ["Passwords Will Prevail," Rainbow Secure blog post](https://blog.rainbowsecure.com/passwords-will-prevail/)
 * ["The Role of Tooling in Threat Modeling," guest article in the *Toreon Threat Modeling Insider Newsletter*](https://www.toreon.com/tmi-newsletter-19-the-role-of-tooling-in-threat-modeling)
 * ["Diversity in cyber - Snyk Ambassadors Show"](https://www.youtube.com/watch?v=yqNHQ5NWeos)
+* ["BYOD Policy"](https://github.com/zbraiterman/blog/blob/main/cybersecurity-content/byod-policy.md)
 
