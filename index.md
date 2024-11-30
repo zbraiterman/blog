@@ -10,8 +10,8 @@ Author:  Zoe Braiterman
 ### Blog Posts by Category
 
 * [Cybersecurity](Cybersecurity.md)
-* [Data Science](https://zoebraiterman.com/Data_Science.html)
-* [Engineering](https://zoebraiterman.com/Engineering.html)
+* [Data Science](Data_Science.md)
+* [Engineering](Engineering)
 
 ### I've co-authored or reviewed the following books:
 * [*Cloud Penetration Testing for Red Teamers* by Kim Crawley](https://subscription.packtpub.com/book/security/9781803248486)
