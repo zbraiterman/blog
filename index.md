@@ -14,6 +14,7 @@ Author:  Zoe Braiterman
 * [Engineering](Engineering)
 
 ### I've co-authored or reviewed the following books:
+* [*Threat Modeling Gameplay with EoP: A reference manual for spotting threats in software architecture* by Brett Crawley](https://www.amazon.com/Threat-Modeling-Gameplay-EoP-architecture/dp/1804618977)
 * [*Cloud Penetration Testing for Red Teamers* by Kim Crawley](https://subscription.packtpub.com/book/security/9781803248486)
 
 ### I've co-authored the following publications:
