@@ -9,7 +9,7 @@ Author:  Zoe Braiterman
 
 ### Blog Posts by Category
 
-* [Cybersecurity](https://zoebraiterman.com/Cybersecurity.html)
+* [Cybersecurity](Cybersecurity.md)
 * [Data Science](https://zoebraiterman.com/Data_Science.html)
 * [Engineering](https://zoebraiterman.com/Engineering.html)
 
